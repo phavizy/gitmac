@@ -1,0 +1,2 @@
+# gitmac
+first git
